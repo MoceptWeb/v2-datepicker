@@ -1,6 +1,6 @@
 import Vue from 'vue';
 
-import V2DatePicker from '../src/index';
+import V2DatePicker from '../datepicker/src/index';
 
 Vue.use(V2DatePicker);
 
